@@ -1,6 +1,6 @@
 *****************************************;
 *  Calculating BMI for Children in CO   *; 
-*    ***See step 2 for SQL code***      *;
+*    *** See step 2 for SQL code ***    *;
 *****************************************;
 
 *1. Import data in SAS using infile;
